@@ -1,0 +1,22 @@
+{
+  "name": "ONye Ukoha",
+  "website": "https://www.google.com",
+  "linkedin": "https://www.linkedin.com/in/onyenyc/",
+  "github": "ONyenyc",
+  "email": "ONye@topSecret",
+  "resume": "https://github.com/ONyeNYC",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "SQL",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "CSS",
+    "Html"
+  ],
+  "otherSkills": ["Operations", "City Navigator", "Personal Trainer"]
+}
